@@ -4,7 +4,7 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-I'm **Jamel Sandí**, a junior student pursuing a degree in Systems Engineering at the **National University of Costa Rica (UNA)**. I already hold a diploma and am currently working on my bachelor's. 💻📚
+I'm **Jamel Sandí**, a student pursuing a degree in Systems Engineering at the **National University of Costa Rica (UNA)**. I already hold a diploma and am currently working on my bachelor's. 💻📚
 
 I'm passionate about software development, focusing on **MVC patterns** and **object-oriented system design**. I'm always exploring new technologies to grow as a future engineer.
 
