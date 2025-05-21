@@ -8,7 +8,7 @@ I'm **Jamel Sandí**, a student pursuing a degree in Systems Engineering at the 
 
 I'm passionate about software development, focusing on **MVC patterns** and **object-oriented system design**. I'm always exploring new technologies to grow as a future engineer.
 
-When I'm not coding, I enjoy **music** and **good food** 🎵🍴. I believe creativity and discipline in these areas also apply to software development.
+When I'm not coding, I enjoy **music** and **good food** 🍴. I believe creativity and discipline in these areas also apply to software development.
 
 Always learning and exploring new things, you can reach out to me at: jsandi12199@gmail.com.
 
