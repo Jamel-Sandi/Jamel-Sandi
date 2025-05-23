@@ -10,7 +10,7 @@ I'm passionate about software development, focusing on **MVC patterns** and **ob
 
 When I'm not coding, I enjoy **music** and **good food** 🍴. I believe creativity and discipline in these areas also apply to software development.
 
-Always learning and exploring new things, you can reach out to me at: jsandi12199@gmail.com.
+Always learning and exploring new things, you can reach out to me at: jamelsandi6@gmail.com.
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
